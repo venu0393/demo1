@@ -1,1 +1,4 @@
-print('This is file2 in dir1/folder2')
+def greet():
+    print("Hello from Positka EC2 demo project!")
+
+greet()
